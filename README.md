@@ -13,7 +13,7 @@ N/A
 
 Below is a link to a walkthrough video on how to use the application. An example will also be shown on what the output would be.
 
-![Capture](https://github.com/Daniel-Notice/Weather-Dashboard/assets/144740252/bb2da45d-d7d5-4556-9b7b-e56dbd1d21f8)
+![Screenshot](https://github.com/Daniel-Notice/Readme-Generator/assets/144740252/4c155494-53fc-44d8-b355-390611f96c40)
 
 
 
