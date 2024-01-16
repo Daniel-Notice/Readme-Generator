@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Below is a link to a walkthrough video on how to use the application. An example will also be shown on what the output would be.
+Below is a link to a walkthrough video on how to use the application. An example will also be shown on what the output would be. The technologies there were used wads nodejs and javascript.
 
 ![Screenshot](https://github.com/Daniel-Notice/Readme-Generator/assets/144740252/4c155494-53fc-44d8-b355-390611f96c40)
 
