@@ -2,7 +2,7 @@
 
 ## Description
 
-https://daniel-notice.github.io/Weather-Dashboard/
+[Link to video](https://www.youtube.com/watch?v=MFTsATK6NdI&ab_channel=DVN-Work)
 
 This application allows users to generate a readme.md file using the command line. The application asks users specific questions and then answers that the users had provided gets put into a template.
 ## Installation
