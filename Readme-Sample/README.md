@@ -16,7 +16,8 @@ n/a
 ## Installation 
 N/A
 ## Usage
-openweather api, bootstrap, html, css
+openweather api, bootstrap, html and css were used for this project
+![Capture](https://github.com/Daniel-Notice/Weather-Dashboard/assets/144740252/bb2da45d-d7d5-4556-9b7b-e56dbd1d21f8)
 ## Contact-Me
 * Name - Daniel Notice
 * Email - daniel123@gmail.com
