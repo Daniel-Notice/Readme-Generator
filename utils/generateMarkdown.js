@@ -15,6 +15,8 @@ ${data.license}
 ${data.description}
 ## Requirements
 ${data.require}
+## Installation 
+${data.install}
 ## Usage
 ${data.usage}
 ## Contact-Me
