@@ -63,6 +63,11 @@ const questions = [
     name: "test",
     message: "Please provide a walkthrough of tests if possible",
   },
+  {
+    type: "input",
+    name: "install",
+    message: "Please provide installation instructions",
+  },
 ];
 
 // function to write README file
