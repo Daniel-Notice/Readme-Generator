@@ -1,6 +1,6 @@
 # Weather Dashboard
 by Daniel Notice
-None
+
 ## Table of Contents
 * [Description](#description)
 * [Requirements](#requirements)
@@ -8,7 +8,7 @@ None
 * [Contact-Me](#contact-me)
 * [Contributors](#contributors)
 * [Testing](#testing)
-None
+
 ## Description
 This project allows users to search the weather in any city and get the termperature and other information in that area e.g. wind speed
 ## Requirements
