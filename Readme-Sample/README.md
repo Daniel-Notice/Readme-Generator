@@ -12,7 +12,7 @@ None
 ## Description
 This project allows users to search the weather in any city and get the termperature and other information in that area e.g. wind speed
 ## Requirements
-n/a
+N/A
 ## Installation 
 N/A
 ## Usage
